@@ -71,7 +71,7 @@ flutter pub get
 ```
 3.	Update Parse Server keys:
 •	Open lib/main.dart.
-•	Replace keyApplicationId, keyClientKey, and keyParseServerUrl with your Parse Server details.
+•	Replace keyApplicationId, keyClientKey, keyParseServerUrl and masterKey with your Parse Server details.
 
 4.	Run the App:
 Connect your Android device or start an Android emulator. Then, run the app using:
@@ -86,3 +86,19 @@ flutter run
 3. Connected device (USB): You can run on the device connecting through USB.
 4. Web: Flutter supports running applications on the web, allowing you to build and test your app in a web browser.
 
+
+<img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/screenshot1.jpeg" width="250" height="550">
+<img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/screenshot2.jpeg" width="250" height="550">
+<img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/screenshot3.jpeg" width="250" height="550">
+<img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/screenshot4.jpeg" width="250" height="550">
+<img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/screenshot5.jpeg" width="250" height="550">
+<img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/screenshot6.jpeg" width="250" height="550">
+<img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/screenshot7.jpeg" width="250" height="550">
+<img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/screenshot8.jpeg" width="250" height="550">
+<img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/screenshot9.jpeg" width="250" height="550">
+<img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/screenshot10.jpeg" width="250" height="550">
+<img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/screenshot11.jpeg" width="250" height="550">
+<img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/screenshot12.jpeg" width="250" height="550">
+<img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/screenshot13.jpeg" width="250" height="550">
+<img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/screenshot14.jpeg" width="250" height="550">
+<img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/screenshot15.jpeg" width="250" height="550">
