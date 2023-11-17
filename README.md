@@ -3,3 +3,7 @@ This is a Cross Platform Flutter Application for CRUD operations on Task (TODO A
 
 ## test heading
 **sdfsdf**
+
+```bash
+git add .
+```
