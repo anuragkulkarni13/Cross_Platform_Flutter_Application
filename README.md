@@ -79,3 +79,10 @@ Connect your Android device or start an Android emulator. Then, run the app usin
 flutter run
 ```
 
+### Devices to run the application on
+
+1. Simulator/Emulator: You can run your Flutter app on a simulator/emulator to test and debug your application in an environment that emulates a specific device (iOS simulator or Android emulator).
+2. Connected device (wifi): You can run on the device connecting through wifi.
+3. Connected device (USB): You can run on the device connecting through USB.
+4. Web: Flutter supports running applications on the web, allowing you to build and test your app in a web browser.
+
