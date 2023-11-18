@@ -12,6 +12,7 @@ This is a Cross Platform Flutter Application for CRUD operations on Task (TODO A
 8. **Pull-to-Refresh**: Refresh the Task list by pulling down the screen.
 9. **About Section**: View information about the developer.
 10. **Attractive UI**: The app features a clean and attractive user interface.
+11. **Named Symbol**: Every task is having a symbol on the left side with the letter indicating the initial letter of the task
 
 ### Prerequisites
 Before you start, make sure you have the following installed on your Windows 10 machine:
