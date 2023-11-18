@@ -278,8 +278,62 @@ class _MyHomePageState extends State<MyHomePage> {
           content: Column(
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
-              Text('Task Name: ${task.get('title')}'),
-              Text('Task Description: ${task.get('description')}'),
+              SizedBox(height: 15),
+              Text(
+                'Task Name:',
+                style: TextStyle(
+                  fontWeight: FontWeight.bold,
+                  fontSize: 18,
+                ),
+              ),
+              SizedBox(height: 8),
+              Text(
+                '${task.get('title')}',
+                style: TextStyle(
+                  fontSize: 18,
+                ),
+              ),
+              SizedBox(height: 15),
+              Text(
+                'Task Description:',
+                style: TextStyle(
+                  fontWeight: FontWeight.bold,
+                  fontSize: 18,
+                ),
+              ),
+              SizedBox(height: 8),
+              Text(
+                '${task.get('description')}',
+                style: TextStyle(
+                  fontSize: 18,
+                ),
+              ),
+              // Text('Task Name: ${task.get('title')}'),
+              // Text('Task Description: ${task.get('description')}'),
+              // ListTile(
+              //   title: Text(
+              //     'Task Name: ${task.get('title')}',
+              //     style: TextStyle(
+              //       fontWeight: FontWeight.bold,
+              //       fontSize: 18,
+              //     ),
+              //     Text(
+              //       'Task Description: ${task.get('description')}',
+              //       style: TextStyle(
+              //         fontWeight: FontWeight.bold,
+              //         fontSize: 18,
+              //       ),
+              //     ),
+              //   ),
+              //   subtitle: Text(
+              //     'Task Description: ${task.get('description')}',
+              //     style: TextStyle(
+              //       fontWeight: FontWeight.bold,
+              //       fontSize: 18,
+              //     ),
+              //   ),
+              //   // You can add more widgets here, such as trailing icons, buttons, etc.
+              // ),
             ],
           ),
           actions: [
