@@ -6,7 +6,7 @@ This is a Cross Platform Flutter Application for CRUD operations on Task (TODO A
 2. **Add Task**: This feature Adds a new Task with a task title and task description.
 3. **Edit Task**: Here we can Modify the details of an existing Task.
 4. **Delete Task**: This feature Removes a Task after confirming the deletion.
-5. **Detail View**: This feature displays the details of the app when clicked on the task.
+5. **Task Detail View**: This feature displays the details of the app when clicked on the task.
 6. **Share task**: This feature shares the task on WhatsApp.
 7. **Share all tasks**: This feature shares list of task on WhatsApp.
 8. **Pull-to-Refresh**: Refresh the Task list by pulling down the screen.
@@ -89,7 +89,7 @@ flutter run
 4. Web: Flutter supports running applications on the web, allowing you to build and test your app in a web browser.
 
 
-<img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/images/Screenshot 1.jpeg" width="250" height="550">
+<img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/images/ss1.png" width="250" height="550">
 <img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/images/Screenshot 2.jpeg" width="250" height="550">
 <img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/images/Screenshot 3.jpeg" width="250" height="550">
 <img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/images/Screenshot 4.jpeg" width="250" height="550">
@@ -104,3 +104,59 @@ flutter run
 <img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/images/Screenshot 13.jpeg" width="250" height="550">
 <img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/images/Screenshot 14.jpeg" width="250" height="550">
 <img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/images/Screenshot 15.jpeg" width="250" height="550">
+
+
+Screenshots:
+Add Products feature
+Here we have a “+” icon from where we can add the task.
+ 
+Once we click on the “+” sign we will get a page with 2 text boxes for title and description.
+ 
+We have to enter the title and description in the fields and click on “add” button to add the task, and “cancel” button to cancel your operation.
+ 
+Here we can see the task has been added to the list.
+ 
+
+Edit Products feature
+For the edit option we have a “pencil symbol” for every task.
+ 
+Once we click on the pencil symbol, we get navigated to the edit product page where we get the details of the task and we can add or remove the content from the from title and description.
+Next we can click on “save” button to save and “cancel” button to cancel the operation.
+ 
+Here we can see the “Task 1” task has been changed to “Task 1 edited” and changes in description are also seen
+ 
+Delete Products feature
+Here for every task, we have a delete symbol
+ 
+Once we click on the delete symbol the task gets deleted from the list and the updated list is shown.
+ 
+
+Task Details View feature
+Here when we click on the task, we can see the details of the task on a new view
+ 
+ 
+
+Share Products feature
+Here we have the share symbol for every task for sharing the task details on WhatsApp
+ 
+Once we click on share button we will be redirected to WhatsApp and after selecting the recipient the task details will be shared 
+ 
+Share All Products feature
+Here we have a share icon on the task bar which on click we can share all the tasks in the list.
+ 
+In the below image we can see all the task details shared on WhatsApp
+ 
+
+About Page
+Here we have an options menu on the right corner in the taskbar which when clicked we get and option for About page
+ 
+Once we click on the about page, we get the details about the application
+ 
+
+Named Symbol for every task
+Here we have a named symbol for every task with the initial letter of the task.
+ 
+
+Back4App Integration
+We have a Task Class in Back4App Dashboard and title and description as the columns
+ 
