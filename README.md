@@ -89,8 +89,6 @@ flutter run
 4. Web: Flutter supports running applications on the web, allowing you to build and test your app in a web browser.
 
 
-<img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/images/ss1.png" width="250" height="550">
-
 
 ### Screenshots:
 ### Add Products feature
@@ -120,7 +118,7 @@ flutter run
 
 
 ### Delete Products feature
-Here for every task, we have a delete symbol
+### Here for every task, we have a delete symbol
  <img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/images/ss8.png" width="250" height="550">
 
 ### Once we click on the delete symbol the task gets deleted from the list and the updated list is shown.
