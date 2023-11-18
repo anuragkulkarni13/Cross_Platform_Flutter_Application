@@ -89,18 +89,18 @@ flutter run
 4. Web: Flutter supports running applications on the web, allowing you to build and test your app in a web browser.
 
 
-<img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/Screenshot1.jpeg" width="250" height="550">
-<img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/Screenshot2.jpeg" width="250" height="550">
-<img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/Screenshot3.jpeg" width="250" height="550">
-<img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/Screenshot4.jpeg" width="250" height="550">
-<img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/Screenshot5.jpeg" width="250" height="550">
-<img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/Screenshot6.jpeg" width="250" height="550">
-<img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/Screenshot7.jpeg" width="250" height="550">
-<img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/Screenshot8.jpeg" width="250" height="550">
-<img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/Screenshot9.jpeg" width="250" height="550">
-<img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/Screenshot10.jpeg" width="250" height="550">
-<img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/Screenshot11.jpeg" width="250" height="550">
-<img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/Screenshot12.jpeg" width="250" height="550">
-<img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/Screenshot13.jpeg" width="250" height="550">
-<img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/Screenshot14.jpeg" width="250" height="550">
-<img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/Screenshot15.jpeg" width="250" height="550">
+<img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/images/Screenshot1.jpeg" width="250" height="550">
+<img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/images/Screenshot2.jpeg" width="250" height="550">
+<img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/images/Screenshot3.jpeg" width="250" height="550">
+<img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/images/Screenshot4.jpeg" width="250" height="550">
+<img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/images/Screenshot5.jpeg" width="250" height="550">
+<img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/images/Screenshot6.jpeg" width="250" height="550">
+<img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/images/Screenshot7.jpeg" width="250" height="550">
+<img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/images/Screenshot8.jpeg" width="250" height="550">
+<img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/images/Screenshot9.jpeg" width="250" height="550">
+<img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/images/Screenshot10.jpeg" width="250" height="550">
+<img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/images/Screenshot11.jpeg" width="250" height="550">
+<img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/images/Screenshot12.jpeg" width="250" height="550">
+<img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/images/Screenshot13.jpeg" width="250" height="550">
+<img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/images/Screenshot14.jpeg" width="250" height="550">
+<img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/images/Screenshot15.jpeg" width="250" height="550">
