@@ -6,11 +6,12 @@ This is a Cross Platform Flutter Application for CRUD operations on Task (TODO A
 2. **Add Task**: This feature Adds a new Task with a task title and task description.
 3. **Edit Task**: Here we can Modify the details of an existing Task.
 4. **Delete Task**: This feature Removes a Task after confirming the deletion.
-5. **Share task**: This feature shares the task on WhatsApp.
-6. **Share all tasks**: This feature shares list of task on WhatsApp.
-7. **Pull-to-Refresh**: Refresh the Task list by pulling down the screen.
-8. **About Section**: View information about the developer.
-9. **Attractive UI**: The app features a clean and attractive user interface.
+5. **Detail View**: This feature displays the details of the app when clicked on the task.
+6. **Share task**: This feature shares the task on WhatsApp.
+7. **Share all tasks**: This feature shares list of task on WhatsApp.
+8. **Pull-to-Refresh**: Refresh the Task list by pulling down the screen.
+9. **About Section**: View information about the developer.
+10. **Attractive UI**: The app features a clean and attractive user interface.
 
 ### Prerequisites
 Before you start, make sure you have the following installed on your Windows 10 machine:
