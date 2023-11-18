@@ -90,73 +90,59 @@ flutter run
 
 
 <img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/images/ss1.png" width="250" height="550">
-<img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/images/Screenshot 2.jpeg" width="250" height="550">
-<img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/images/Screenshot 3.jpeg" width="250" height="550">
-<img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/images/Screenshot 4.jpeg" width="250" height="550">
-<img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/images/Screenshot 5.jpeg" width="250" height="550">
-<img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/images/Screenshot 6.jpeg" width="250" height="550">
-<img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/images/Screenshot 7.jpeg" width="250" height="550">
-<img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/images/Screenshot 8.jpeg" width="250" height="550">
-<img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/images/Screenshot 9.jpeg" width="250" height="550">
-<img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/images/Screenshot 10.jpeg" width="250" height="550">
-<img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/images/Screenshot 11.jpeg" width="250" height="550">
-<img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/images/Screenshot 12.jpeg" width="250" height="550">
-<img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/images/Screenshot 13.jpeg" width="250" height="550">
-<img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/images/Screenshot 14.jpeg" width="250" height="550">
-<img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/images/Screenshot 15.jpeg" width="250" height="550">
 
 
 Screenshots:
 Add Products feature
 Here we have a “+” icon from where we can add the task.
- 
+<img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/images/ss1.png" width="250" height="550">
 Once we click on the “+” sign we will get a page with 2 text boxes for title and description.
- 
+<img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/images/ss2.png" width="250" height="550">
 We have to enter the title and description in the fields and click on “add” button to add the task, and “cancel” button to cancel your operation.
- 
+<img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/images/ss3.png" width="250" height="550">
 Here we can see the task has been added to the list.
- 
+<img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/images/ss4.png" width="250" height="550">
 
 Edit Products feature
 For the edit option we have a “pencil symbol” for every task.
- 
+<img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/images/ss5.png" width="250" height="550">
 Once we click on the pencil symbol, we get navigated to the edit product page where we get the details of the task and we can add or remove the content from the from title and description.
 Next we can click on “save” button to save and “cancel” button to cancel the operation.
- 
+<img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/images/ss6.png" width="250" height="550">
 Here we can see the “Task 1” task has been changed to “Task 1 edited” and changes in description are also seen
- 
+ <img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/images/ss7.png" width="250" height="550">
 Delete Products feature
 Here for every task, we have a delete symbol
- 
+ <img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/images/ss8.png" width="250" height="550">
 Once we click on the delete symbol the task gets deleted from the list and the updated list is shown.
- 
+ <img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/images/ss9.png" width="250" height="550">
 
 Task Details View feature
 Here when we click on the task, we can see the details of the task on a new view
- 
+ <img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/images/ss10.png" width="250" height="550">
  
 
 Share Products feature
 Here we have the share symbol for every task for sharing the task details on WhatsApp
- 
+ <img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/images/ss11.png" width="250" height="550">
 Once we click on share button we will be redirected to WhatsApp and after selecting the recipient the task details will be shared 
- 
+ <img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/images/ss12.png" width="250" height="550">
 Share All Products feature
 Here we have a share icon on the task bar which on click we can share all the tasks in the list.
- 
+ <img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/images/ss13.png" width="250" height="550">
 In the below image we can see all the task details shared on WhatsApp
- 
+ <img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/images/ss14.png" width="250" height="550">
 
 About Page
 Here we have an options menu on the right corner in the taskbar which when clicked we get and option for About page
- 
+ <img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/images/ss15.png" width="250" height="550">
 Once we click on the about page, we get the details about the application
- 
+ <img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/images/ss16.png" width="250" height="550">
 
 Named Symbol for every task
 Here we have a named symbol for every task with the initial letter of the task.
- 
+ <img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/images/ss17.png" width="250" height="550">
 
 Back4App Integration
 We have a Task Class in Back4App Dashboard and title and description as the columns
- 
+ <img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/images/ss18.png" width="250" height="550">
