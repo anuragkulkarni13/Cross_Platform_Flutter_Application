@@ -130,29 +130,29 @@ Once we click on the delete symbol the task gets deleted from the list and the u
 Task Details View feature
 Here when we click on the task, we can see the details of the task on a new view
 <img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/images/ss10.png" width="250" height="550">
- 
+<img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/images/ss11.png" width="250" height="550">
 
 Share Products feature
 Here we have the share symbol for every task for sharing the task details on WhatsApp
-<img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/images/ss11.png" width="250" height="550">
-Once we click on share button we will be redirected to WhatsApp and after selecting the recipient the task details will be shared 
 <img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/images/ss12.png" width="250" height="550">
+Once we click on share button we will be redirected to WhatsApp and after selecting the recipient the task details will be shared 
+<img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/images/ss13.png" width="250" height="550">
 Share All Products feature
 Here we have a share icon on the task bar which on click we can share all the tasks in the list.
-<img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/images/ss13.png" width="250" height="550">
-In the below image we can see all the task details shared on WhatsApp
 <img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/images/ss14.png" width="250" height="550">
+In the below image we can see all the task details shared on WhatsApp
+<img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/images/ss15.png" width="250" height="550">
 
 About Page
 Here we have an options menu on the right corner in the taskbar which when clicked we get and option for About page
-<img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/images/ss15.png" width="250" height="550">
-Once we click on the about page, we get the details about the application
 <img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/images/ss16.png" width="250" height="550">
+Once we click on the about page, we get the details about the application
+<img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/images/ss17.png" width="250" height="550">
 
 Named Symbol for every task
 Here we have a named symbol for every task with the initial letter of the task.
-<img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/images/ss17.png" width="250" height="550">
+<img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/images/ss18.png" width="250" height="550">
 
 Back4App Integration
 We have a Task Class in Back4App Dashboard and title and description as the columns
-<img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/images/ss18.png" width="250" height="550">
+<img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/images/ss19.png" width="250" height="550">
