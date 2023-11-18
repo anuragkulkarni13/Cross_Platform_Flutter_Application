@@ -157,4 +157,4 @@ flutter run
 
 ### Back4App Integration
 ### We have a Task Class in Back4App Dashboard and title and description as the columns
-<img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/images/ss19.png" width="1920" height="1080">
+<img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/images/ss19.png" width="1500" height="750">
