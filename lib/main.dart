@@ -25,7 +25,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'Task TODO Application',
       theme: ThemeData(
-        primarySwatch: Colors.cyan, // Change color theme to teal
+        primarySwatch: Colors.cyan,
         hintColor: Colors.orange,
         visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
@@ -132,7 +132,7 @@ class _MyHomePageState extends State<MyHomePage> {
                             showDialog(
                               context: context,
                               builder: (context) => AlertDialog(
-                                title: Text('Edit Product'),
+                                title: Text('Edit Task'),
                                 content: Column(
                                   children: [
                                     TextField(
@@ -197,7 +197,7 @@ class _MyHomePageState extends State<MyHomePage> {
           showDialog(
             context: context,
             builder: (context) => AlertDialog(
-              title: Text('Add Product'),
+              title: Text('Add Task'),
               content: Column(
                 children: [
                   TextField(
@@ -238,25 +238,24 @@ class _MyHomePageState extends State<MyHomePage> {
   }
 
 
-  // CRUD Operations
+  Future<List<ParseObject>> listTasks() async {
+    final QueryBuilder<ParseObject> qb =
+    QueryBuilder<ParseObject>(ParseObject('Task'))
+      ..orderByDescending('createdAt');
+
+    final ParseResponse taskList = await qb.query();
+    if (taskList.success && taskList.results != null) {
+      return List<ParseObject>.from(taskList.results as Iterable);
+    } else {
+      return [];
+    }
+  }
+
   Future<void> createTask() async {
     final ParseObject task = ParseObject('Task')
       ..set('title', _titleController.text)
       ..set('description', _descriptionController.text);
     await task.save();
-  }
-
-  Future<List<ParseObject>> listTasks() async {
-    final QueryBuilder<ParseObject> queryBuilder =
-    QueryBuilder<ParseObject>(ParseObject('Task'))
-      ..orderByDescending('createdAt');
-
-    final ParseResponse apiResponse = await queryBuilder.query();
-    if (apiResponse.success && apiResponse.results != null) {
-      return List<ParseObject>.from(apiResponse.results as Iterable);
-    } else {
-      return [];
-    }
   }
 
   Future<void> updateTaskDetails(ParseObject task) async {
@@ -332,7 +331,6 @@ class _MyHomePageState extends State<MyHomePage> {
               //       fontSize: 18,
               //     ),
               //   ),
-              //   // You can add more widgets here, such as trailing icons, buttons, etc.
               // ),
             ],
           ),
@@ -356,19 +354,19 @@ class _MyHomePageState extends State<MyHomePage> {
   }
 
   void _shareAllTasksOnWhatsApp() async{
-    final QueryBuilder<ParseObject> queryBuilder =
+    final QueryBuilder<ParseObject> qb1 =
     QueryBuilder<ParseObject>(ParseObject('Task'))
       ..orderByDescending('createdAt');
 
-    final ParseResponse apiResponse = await queryBuilder.query();
+    final ParseResponse apiResponse = await qb1.query();
     List<ParseObject> task = List<ParseObject>.from(apiResponse.results as Iterable);
 
     String url = "https://wa.me/?text=TaskDetails\n";
     for(ParseObject p in task)
-      {
-        String taskDetails = "\nTitle: "+p.get("title")+"\nTask Description: "+p.get("description")+"\n\n";
-        url = url + taskDetails;
-      }
+    {
+      String taskDetails = "\nTitle: "+p.get("title")+"\nTask Description: "+p.get("description")+"\n\n";
+      url = url + taskDetails;
+    }
     launchUrl(Uri.parse(url));
   }
 
