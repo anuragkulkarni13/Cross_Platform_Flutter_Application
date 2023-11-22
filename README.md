@@ -91,7 +91,7 @@ flutter run
 
 
 ### Screenshots:
-### Add Products feature
+### Add Task feature
 ### Here we have a “+” icon from where we can add the task.
 <img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/images/ss1.png" width="250" height="550">
 
@@ -105,11 +105,11 @@ flutter run
 <img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/images/ss4.png" width="250" height="550">
 
 
-### Edit Products feature
+### Edit Tasks feature
 ### For the edit option we have a “pencil symbol” for every task.
 <img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/images/ss5.png" width="250" height="550">
 
-### Once we click on the pencil symbol, we get navigated to the edit product page where we get the details of the task and we can add or remove the content from the from title and description.
+### Once we click on the pencil symbol, we get navigated to the edit Task page where we get the details of the task and we can add or remove the content from the from title and description.
 ### Next we can click on “save” button to save and “cancel” button to cancel the operation.
 <img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/images/ss6.png" width="250" height="550">
 
@@ -117,7 +117,7 @@ flutter run
  <img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/images/ss7.png" width="250" height="550">
 
 
-### Delete Products feature
+### Delete Tasks feature
 ### Here for every task, we have a delete symbol
  <img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/images/ss8.png" width="250" height="550">
 
@@ -130,14 +130,14 @@ flutter run
 <img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/images/ss10.png" width="250" height="550">
 <img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/images/ss11.png" width="250" height="550">
 
-### Share Products feature
+### Share Tasks feature
 ### Here we have the share symbol for every task for sharing the task details on WhatsApp
 <img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/images/ss12.png" width="250" height="550">
 
 ### Once we click on share button we will be redirected to WhatsApp and after selecting the recipient the task details will be shared 
 <img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/images/ss13.png" width="250" height="550">
 
-### Share All Products feature
+### Share All Tasks feature
 ### Here we have a share icon on the task bar which on click we can share all the tasks in the list.
 <img src="https://github.com/anuragkulkarni13/Cross_Platform_Flutter_Application/raw/main/assests/images/ss14.png" width="250" height="550">
 
