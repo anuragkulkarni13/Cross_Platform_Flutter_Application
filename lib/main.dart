@@ -279,7 +279,7 @@ class _MyHomePageState extends State<MyHomePage> {
             children: [
               SizedBox(height: 15),
               Text(
-                'Task Name:',
+                'Task Title:',
                 style: TextStyle(
                   fontWeight: FontWeight.bold,
                   fontSize: 18,
